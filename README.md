@@ -1,2 +1,2 @@
 # Hello World!, My name is Andi Dermawan and i'm a student in SMAN 4 BANJARBARU.
-currently i am learning how to use git and github on w3school.
+currently i'm learning how to use git and github on youtube channel Web Programming UNPAS, Programmer Zaman Now and on w3school website.
